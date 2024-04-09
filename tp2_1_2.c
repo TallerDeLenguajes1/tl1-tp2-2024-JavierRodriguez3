@@ -3,7 +3,7 @@
 #include <time.h>
 
 
-void main(){
+int main(){
 int i;
 double vt[N];
 double *array;
@@ -20,5 +20,7 @@ for (i = 0; i < N; i++)
     printf("% f ", vt[i]);
     array++;
 }
+
+    return 0;
 
 }
