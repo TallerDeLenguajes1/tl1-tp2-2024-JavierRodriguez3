@@ -1,0 +1,1 @@
+Se agregó un "puntito azul" que seria el commit 
