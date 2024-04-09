@@ -1,0 +1,5 @@
+2f - No puedo ver el archivo crado en la rama Opcion_2 porque estoy parado en otra rama
+
+Al ejectura nuevamente el gitk --all se ve en la GUI como l a rama Opcion_2 cambia de posicion
+
+Al hacer el gitk --all luego del marge, se ven lineas rosas que conectan las nuevas versiones
