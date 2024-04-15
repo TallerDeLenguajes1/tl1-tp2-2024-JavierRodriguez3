@@ -47,10 +47,10 @@ void mostrarPc(compu mostrar[])
 
 void pcMasVieja(compu mostrar[])
 {
-    int x = 0;
+    int x = 9999;
     for (int i = 0; i < 5; i++)
     {
-        if (mostrar[i].anio > x)
+        if (mostrar[i].anio < x)
             {
                 x = mostrar[i].anio;
             }
